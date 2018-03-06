@@ -1,3 +1,7 @@
+This project has been improved and finalized in the following paper:
+
+Brown JW, Caetano-Anollés D, Catanho M, Gribkova E, Ryckman N, Tian K, Voloshin M, Gillette R. (2017). Implementing Goal-Directed Foraging Decisions of a Simpler Nervous System in Simulation. eNeuro eN-NWR-0400-17.2018. [DOI: 10.1523/ENEURO.0400-17.2018.](http://www.eneuro.org/content/5/1/ENEURO.0400-17.2018)
+
 # CONTENTS
 
 * [**I. PLEUROBRANCHAEA BEHAVIOR SIMULATION**](#anchor-1)
@@ -245,6 +249,8 @@ Derek Caetano-Anolles, Rhanor Gillette, Mark Nelson.
 - **Licenses:** Unless otherwise stated, the materials presented in this package are distributed under the [MIT License.](https://opensource.org/licenses/MIT)
 
 - **Acknowledgements:** These materials are based upon work from the lab of [Dr. Rhanor Gillette](https://mcb.illinois.edu/faculty/profile/rhanor/) at the University of Illinois at Urbana-Champaign. Additional help was provided by [Dr. Mark Nelson](https://mcb.illinois.edu/faculty/profile/m-nelson/).
+
+- **Final Project Cited On:** Brown JW, Caetano-Anollés D, Catanho M, Gribkova E, Ryckman N, Tian K, Voloshin M, Gillette R. (2017). Implementing Goal-Directed Foraging Decisions of a Simpler Nervous System in Simulation. eNeuro eN-NWR-0400-17.2018. [DOI: 10.1523/ENEURO.0400-17.2018.](http://www.eneuro.org/content/5/1/ENEURO.0400-17.2018)
 
 - **Project Notes:** These materials represent an early version of the *CyberSlug* simulation, originally written by Derek Caetano-Anollés in 2009. The project has since been expanded, so additional information and updates can be found at the [Slug City](https://publish.illinois.edu/slug-city/) website.
 
