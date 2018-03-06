@@ -1,6 +1,18 @@
+# CYBERSLUG
+
 This project has been improved and finalized in the following paper:
 
 Brown JW, Caetano-Anollés D, Catanho M, Gribkova E, Ryckman N, Tian K, Voloshin M, Gillette R. (2017). Implementing Goal-Directed Foraging Decisions of a Simpler Nervous System in Simulation. eNeuro eN-NWR-0400-17.2018. [DOI: 10.1523/ENEURO.0400-17.2018.](http://www.eneuro.org/content/5/1/ENEURO.0400-17.2018)
+
+
+
+
+
+- - -
+
+
+
+
 
 # CONTENTS
 
